@@ -1,11 +1,4 @@
-# Deffy
-
-
-
-
-
-
-# Mes stats
+# Some stats about me...
 
 
 [![](https://raw.githubusercontent.com/DeffyCode/DeffyCode/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
