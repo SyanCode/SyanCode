@@ -9,7 +9,7 @@ Je m'intéresse à :
 - 🖥️ Création de sites web et d'applications
 - 📊 Analyse des données et apprentissage automatique
 
-## Projets actifs
+## Projets en cours de réalisation
 
 ### [Space Invaders 👾](https://github.com/SyanCode/SpaceInvaders)
 Une reproduction de Space Invaders en Python (projet scolaire).
