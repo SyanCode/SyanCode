@@ -1,6 +1,6 @@
 # Bienvenue sur ma page GitHub
 
-Salut ! Je suis **Syan**, un passionné de développement (web/autres).
+Salut ! Je suis **Syan**, un passionné de développement (web/app).
 
 ## À propos de moi
 
@@ -11,8 +11,8 @@ Je m'intéresse à :
 
 ## Projets en cours de réalisation
 
-### [Space Invaders 👾](https://github.com/SyanCode/SpaceInvaders)
-Une reproduction de Space Invaders en Python (projet scolaire).
+### [ChaosClock 🕰️](https://github.com/AetheriumMods/ChaosClock)
+Un mod Minecraft qui produit un événement aléatoire toutes les 30 secondes.
 
 ## Me contacter
 
