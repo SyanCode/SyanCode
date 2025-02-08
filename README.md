@@ -9,6 +9,23 @@ Je m'intéresse à :
 - 🖥️ Création de sites web et d'applications
 - 📊 Analyse des données et apprentissage automatique
 
+## Projets achevés
+
+### [Space Invaders 👾](https://github.com/SyanCode/SpaceInvaders)
+Une reproduction de Space Invaders en Python (projet scolaire). Toutes les étapes de création sont fournies.
+
+### [CSV Data Handler 📒](https://github.com/SyanCode/CSV-Data-Handler)
+Outil Python pour lire, analyser et manipuler efficacement des fichiers CSV. Fournit des fonctionnalités de filtrage, transformation et analyse statistique simple des données.
+
+### [Weather Data Analysis 🌡️](https://github.com/SyanCode/Weather-Data-Analysis)
+Projet Python pour analyser des séries de données météorologiques, effectuer des analyses statistiques et visualiser les résultats. L’objectif est de dégager des tendances et d’obtenir des insights sur les phénomènes météorologiques à partir des données brutes.
+
+### [Covid19-Data-Analysis 🦠](https://github.com/SyanCode/Covid19-Data-Analysis)
+Projet en Python utilisant les séries temporelles de l’Université Johns Hopkins pour analyser les cas confirmés, les décès et les récupérations. Comprend plusieurs scripts d’analyse et des visualisations pour suivre l’évolution de la pandémie.
+
+### [SNTweb 🌐](https://github.com/SyanCode/SNTweb)
+Projet de site internet en classe de SNT (seconde). Démonstratif, pour valider des compétences en HTML/CSS/JS.
+
 ## Projets en cours de réalisation
 
 ### [ChaosClock 🕰️](https://github.com/AetheriumMods/ChaosClock)
