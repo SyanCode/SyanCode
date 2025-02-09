@@ -23,7 +23,7 @@ Projet Python pour analyser des séries de données météorologiques, effectuer
 ### [Covid19-Data-Analysis 🦠](https://github.com/SyanCode/Covid19-Data-Analysis) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 Projet en Python utilisant les séries temporelles de l’Université Johns Hopkins pour analyser les cas confirmés, les décès et les récupérations. Comprend plusieurs scripts d’analyse et des visualisations pour suivre l’évolution de la pandémie.
 
-### [SNTweb 🌐](https://github.com/SyanCode/SNTweb) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### [SNTweb 🌐](https://github.com/SyanCode/SNTweb) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 Projet de site internet en classe de SNT (seconde). Démonstratif, pour valider des compétences en HTML/CSS/JS.
 
 ## Mini-projets
