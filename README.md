@@ -26,6 +26,17 @@ Projet en Python utilisant les séries temporelles de l’Université Johns Hopk
 ### [SNTweb 🌐](https://github.com/SyanCode/SNTweb)
 Projet de site internet en classe de SNT (seconde). Démonstratif, pour valider des compétences en HTML/CSS/JS.
 
+## Mini-projets
+
+### [Fusion Tables Oiseaux 🐦](https://github.com/SyanCode/Fusion-Tables-Oiseaux)
+Script Python pour fusionner des données sur les oiseaux à partir de plusieurs fichiers CSV, générant des fichiers consolidés.
+
+### [Analyse de données de nom d'enfants en 2003/2004 en France 👶](https://github.com/SyanCode/Baby-Names-Data-Analysis)
+Script Python pour analyser les prénoms en France en 2003 et 2004, avec journalisation et génération de rapports.
+
+### [Fusion de Tables avec Pandas 🐼](https://github.com/SyanCode/Fusion-Tables-Pandas)
+Fusion de tables de données en Python avec Pandas, jointures et gestion des valeurs manquantes.
+
 ## Projets en cours de réalisation
 
 ### [ChaosClock 🕰️](https://github.com/AetheriumMods/ChaosClock)
