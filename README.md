@@ -42,9 +42,9 @@ Fusion de tables de données en Python avec Pandas, jointures et gestion des val
 ### [ChaosClock 🕰️](https://github.com/AetheriumMods/ChaosClock) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 Un mod Minecraft qui produit un événement aléatoire toutes les 30 secondes.
 
-## Sites web créés
+## Sites web opérés
 
-### [dbenamor.fr](https://dbenamor.fr/) (https://github.com/SyanCode/SNTweb) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### [dbenamor.fr](https://dbenamor.fr/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 Site internet de Djémâa Benamor, artiste plasticienne et professeure.
 
 ## Me contacter
