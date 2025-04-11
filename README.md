@@ -37,13 +37,15 @@ Script Python pour analyser les prénoms en France en 2003 et 2004, avec journal
 ### [Fusion de Tables avec Pandas 🐼](https://github.com/SyanCode/Fusion-Tables-Pandas) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 Fusion de tables de données en Python avec Pandas, jointures et gestion des valeurs manquantes.
 
+## Cybersécurité
+
+### [CamSploit 📹](https://github.com/SyanCode/camsploit)
+Hacking éthique d'une machine vers une machine cible. Prise de contrôle de la caméra de la machine cible grâce à des outils comme Metasploit, Wireshark et Ettercap.
+
 ## Projets en cours de réalisation
 
 ### [ChaosClock 🕰️](https://github.com/AetheriumMods/ChaosClock) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 Un mod Minecraft qui produit un événement aléatoire toutes les 30 secondes.
-
-### [CamSploit 📹 (en cours de création)]
-Cybersécurité : Hacking éthique d'une machine vers une machine cible. Prise de contrôle de la caméra de la machine cible grâce à des outils comme Metasploit, Wireshark et Ettercap.
 
 ## Sites web opérés
 
