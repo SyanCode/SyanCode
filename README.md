@@ -39,7 +39,7 @@ Fusion de tables de données en Python avec Pandas, jointures et gestion des val
 
 ## Cybersécurité
 
-### [CamSploit 📹](https://github.com/SyanCode/camsploit) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+### [CamSploit 📹](https://github.com/SyanCode/CamSploit) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 Hacking éthique d'une machine vers une machine cible. Prise de contrôle de la caméra de la machine cible grâce à des outils comme Metasploit, Wireshark et Ettercap.
 
 ## Projets en cours de réalisation
