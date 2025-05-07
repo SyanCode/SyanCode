@@ -51,7 +51,7 @@ Un mod Minecraft qui produit un événement aléatoire toutes les 30 secondes.
 Application mobile qui optimise le parcours en magasin grâce à une cartographie communautaire des rayons et produits.
 
 ### [Ninjharr 🥷](https://github.com/SyanCode/Ninjharr) [Clause de confidentialité]
-Jeu incarnant un Ninja à travers des niveaux, réalisé à l'occasion de la [Nuit du Code](nuitducode.net) / Univers 2.
+Jeu incarnant un Ninja à travers des niveaux, réalisé à l'occasion de la [Nuit du Code](https://nuitducode.net) / Univers 2.
 
 ## Sites web opérés
 
