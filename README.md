@@ -26,6 +26,9 @@ Projet en Python utilisant les séries temporelles de l’Université Johns Hopk
 ### [SNTweb 🌐](https://github.com/SyanCode/SNTweb) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 Projet de site internet en classe de SNT (seconde). Démonstratif, pour valider des compétences en HTML/CSS/JS.
 
+### [C-Learning 🔧](https://github.com/SyanCode/c-learning) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://www.learn-c.org)
+collection progressive de programmes C pour apprendre les bases du langage à travers des exemples concrets — avec exécutables prêts à l’emploi.
+
 ## Mini-projets
 
 ### [Fusion Tables Oiseaux 🐦](https://github.com/SyanCode/Fusion-Tables-Oiseaux) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
