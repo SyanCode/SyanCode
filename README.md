@@ -11,6 +11,9 @@ Je m'intéresse à :
 
 ## Projets achevés
 
+### [449 : Retry With 🛜](https://github.com/449-Retry-With/V3) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+RPG Top-Down 2D réalisé dans le cadre du programme de Terminale NSI. Le jeu se déroule dans Marseille et nous met dans la peau de Samy, ayant l'ambition de rejoindre une école d'informatique mais n'a pas le matériel pour. Il fait donc des quêtes dans Marseille afin de construire son ordinateur. 
+
 ### [Space Invaders 👾](https://github.com/SyanCode/SpaceInvaders) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 Une reproduction de Space Invaders en Python (projet scolaire). Toutes les étapes de création sont fournies.
 
@@ -52,9 +55,6 @@ Un mod Minecraft qui produit un événement aléatoire toutes les 30 secondes.
 
 ### [ShopWay 🛒](https://github.com/SyanCode/ShopWay)
 Application mobile qui optimise le parcours en magasin grâce à une cartographie communautaire des rayons et produits.
-
-### [Ninjharr 🥷](https://github.com/SyanCode/Ninjharr) [Clause de confidentialité]
-Jeu incarnant un Ninja à travers des niveaux, réalisé à l'occasion de la [Nuit du Code](https://nuitducode.net) / Univers 2.
 
 ## Sites web opérés
 
