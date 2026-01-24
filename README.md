@@ -1,74 +1,19 @@
-# Hello World! 🌐
 
-Salut ! Je suis **Syan**, un passionné de développement (web/app).
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syan.hb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syan@sxnweb.fr) 
 
-## À propos de moi
-
-Je m'intéresse à :
-- 🔧 Développement Full-Stack
-- 🖥️ Création de sites web et d'applications
-- 📊 Analyse des données et apprentissage automatique
-
-## Projets achevés
-
-### [449 : Retry With 🛜](https://github.com/449-Retry-With/V3) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-RPG Top-Down 2D réalisé dans le cadre du programme de Terminale NSI. Le jeu se déroule dans Marseille et nous met dans la peau de Samy, ayant l'ambition de rejoindre une école d'informatique mais n'a pas le matériel pour. Il fait donc des quêtes dans Marseille afin de construire son ordinateur. 
-
-### [Space Invaders 👾](https://github.com/SyanCode/SpaceInvaders) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-Une reproduction de Space Invaders en Python (projet scolaire). Toutes les étapes de création sont fournies.
-
-### [CSV Data Handler 📒](https://github.com/SyanCode/CSV-Data-Handler) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-Outil Python pour lire, analyser et manipuler efficacement des fichiers CSV. Fournit des fonctionnalités de filtrage, transformation et analyse statistique simple des données.
-
-### [Weather Data Analysis 🌡️](https://github.com/SyanCode/Weather-Data-Analysis) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-Projet Python pour analyser des séries de données météorologiques, effectuer des analyses statistiques et visualiser les résultats. L’objectif est de dégager des tendances et d’obtenir des insights sur les phénomènes météorologiques à partir des données brutes.
-
-### [Covid19 Data Analysis 🦠](https://github.com/SyanCode/Covid19-Data-Analysis) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-Projet en Python utilisant les séries temporelles de l’Université Johns Hopkins pour analyser les cas confirmés, les décès et les récupérations. Comprend plusieurs scripts d’analyse et des visualisations pour suivre l’évolution de la pandémie.
-
-### [SNTweb 🌐](https://github.com/SyanCode/SNTweb) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-Projet de site internet en classe de SNT (seconde). Démonstratif, pour valider des compétences en HTML/CSS/JS.
-
-### [C-Learning 🔧](https://github.com/SyanCode/c-learning) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://www.learn-c.org)
-collection progressive de programmes C pour apprendre les bases du langage à travers des exemples concrets — avec exécutables prêts à l’emploi.
-
-## Mini-projets
-
-### [Fusion Tables Oiseaux 🐦](https://github.com/SyanCode/Fusion-Tables-Oiseaux) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-Script Python pour fusionner des données sur les oiseaux à partir de plusieurs fichiers CSV, générant des fichiers consolidés.
-
-### [Analyse de données de nom d'enfants en 2003/2004 en France 👶](https://github.com/SyanCode/Baby-Names-Data-Analysis) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-Script Python pour analyser les prénoms en France en 2003 et 2004, avec journalisation et génération de rapports.
-
-### [Fusion de Tables avec Pandas 🐼](https://github.com/SyanCode/Fusion-Tables-Pandas) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-Fusion de tables de données en Python avec Pandas, jointures et gestion des valeurs manquantes.
-
-## Cybersécurité
-
-### [CamSploit 📹](https://github.com/SyanCode/CamSploit) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-Hacking éthique d'une machine vers une machine cible. Prise de contrôle de la caméra de la machine cible grâce à des outils comme Metasploit, Wireshark et Ettercap.
-
-## Projets en cours de réalisation
-
-### [ChaosClock 🕰️](https://github.com/AetheriumMods/ChaosClock) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-Un mod Minecraft qui produit un événement aléatoire toutes les 30 secondes.
-
-### [ShopWay 🛒](https://github.com/SyanCode/ShopWay)
-Application mobile qui optimise le parcours en magasin grâce à une cartographie communautaire des rayons et produits.
-
-## Sites web opérés
-
-### [dbenamor.fr](https://dbenamor.fr/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-Site internet de Djémâa Benamor, artiste plasticienne et professeure.
-
-## Me contacter
-
-- 📧 Email : [syan@sxnweb.fr](mailto:syan@sxnweb.fr)
-- 👾 Discord : [@syxxnn](https://discordapp.com/users/328228086556393472)
-
-# Quelques stats...
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SyanCode&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SyanCode&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyanCode&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![](https://raw.githubusercontent.com/DeffyCode/DeffyCode/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/DeffyCode/DeffyCode/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DeffyCode/DeffyCode/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/DeffyCode/DeffyCode/master/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DeffyCode/DeffyCode/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SyanCode&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
